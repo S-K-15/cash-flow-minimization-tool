@@ -16,8 +16,17 @@ A Java-based GUI application to help users track expenses, analyze monthly trend
 - File I/O
 - OOP concepts
 
-## Screenshots
-_Add screenshots or demo GIFs here_
+## 📸 Screenshots
+
+### Main GUI
+![Main GUI](https://github.com/S-K-15/cash-flow-minimization-tool/blob/main/Screenshot%202025-07-05%20104128.png)
+
+### Transaction Entry
+![Transaction Entry](https://github.com/S-K-15/cash-flow-minimization-tool/blob/main/Screenshot%202025-07-05%20104313.png)
+
+### Bar Chart View
+![Bar Chart](https://github.com/S-K-15/cash-flow-minimization-tool/blob/main/Screenshot%202025-07-05%20104252.png)
+
 
 ## How to Run
 1. Clone the repository
